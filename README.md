@@ -34,15 +34,3 @@ To install the Network Port Scanner GUI, follow these steps:
 - Click the 'Scan' button to start the scanning process.
 - Review the results displayed in the GUI.
 
-## Contributing
-If you'd like to contribute to this project, please fork the repository and submit a pull request. We welcome improvements and bug fixes!
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-- Thanks to [Python](https://www.python.org/) for its powerful libraries that make this application possible.
-- A big shout-out to the open-source community for their continuous support and contributions. 
-
-## Contact
-For more information, you can reach me via GitHub: [Rishikesh15452](https://github.com/Rishikesh15452)
